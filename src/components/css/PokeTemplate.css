@@ -1,0 +1,15 @@
+.PokeTemplate {
+   text-align: center;
+   padding: 20px;
+}
+
+.app-title {
+   font-size: 2em;
+   margin-bottom: 20px;
+}
+
+.content {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
